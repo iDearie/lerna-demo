@@ -1,5 +1,5 @@
 {
-  "name": "@lizhuo/websocket",
+  "name": "lizhuo-websocket",
   "version": "0.0.9",
   "description": "websocket-ts",
   "author": "lizhuo <superking_0104@163.com>",
@@ -23,5 +23,5 @@
   "dependencies": {
     "@types/paho-mqtt": "^1.0.4"
   },
-  "gitHead": "eb24b575434cce40c54351e004d4094a204e77f5"
+  "gitHead": "778672958432e194d05a6813db6fa5f703f76e4f"
 }
