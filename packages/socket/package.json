@@ -10,7 +10,6 @@
     "lib": "lib",
     "test": "__tests__"
   },
-  "private": true,
   "files": [
     "lib"
   ],
