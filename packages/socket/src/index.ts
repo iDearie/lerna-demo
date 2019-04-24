@@ -1,4 +1,4 @@
-import { WebSocket } from '@lizhuo/websocket';
+import { WebSocket } from 'lizhuo-websocket';
 export class Socket {
   Websocket: WebSocket;
 
