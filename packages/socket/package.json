@@ -22,6 +22,6 @@
   },
   "gitHead": "778672958432e194d05a6813db6fa5f703f76e4f",
   "dependencies": {
-    "@lizhuo/websocket": "^0.0.9"
+    "lizhuo-websocket": "^0.0.10"
   }
 }
