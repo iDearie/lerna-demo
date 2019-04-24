@@ -2,6 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var WebSocket = (function () {
     function WebSocket() {
+        console.log("WebSocket");
     }
     WebSocket.prototype.get = function (id) {
         return id;
