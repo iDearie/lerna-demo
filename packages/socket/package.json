@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "tsc": "tsc"
   },
-  "gitHead": "f2f2cd527f1110acdc7c3b99e33f95aca422cbdd",
+  "gitHead": "b50866dc2cbc9a81aa8319a802b5f743b22ba52e",
   "dependencies": {
     "@lizhuo/websocket": "^0.0.7"
   }

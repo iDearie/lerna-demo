@@ -20,5 +20,5 @@
   "dependencies": {
     "@types/paho-mqtt": "^1.0.4"
   },
-  "gitHead": "f2f2cd527f1110acdc7c3b99e33f95aca422cbdd"
+  "gitHead": "b50866dc2cbc9a81aa8319a802b5f743b22ba52e"
 }
