@@ -1,6 +1,6 @@
 {
   "name": "@lizhuo/socket",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "socket-ts",
   "author": "lizhuo <superking_0104@163.com>",
   "homepage": "",
@@ -19,6 +19,6 @@
   },
   "gitHead": "ca5fc7f11ce60f2cb38777794a16d09e275fd360",
   "dependencies": {
-    "@lizhuo/websocket": "^0.0.5"
+    "@lizhuo/websocket": "^0.0.6"
   }
 }
