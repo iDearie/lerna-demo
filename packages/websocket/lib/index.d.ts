@@ -1,5 +1,3 @@
 export declare class WebSocket {
-  constructor() {
-    console.log('WebSocket');
-  }
+    get(id: number): number;
 }

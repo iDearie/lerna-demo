@@ -1,8 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+var websocket_1 = require("@lizhuo/websocket");
 var Socket = (function () {
     function Socket() {
         console.log("Socket");
+        this.Websocket = new websocket_1.WebSocket();
     }
     Socket.prototype.get = function (id) {
         return id;
